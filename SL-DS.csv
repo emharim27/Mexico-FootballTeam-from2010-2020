@@ -1,0 +1,825 @@
+Stage,Round,Team 1,FT,Team 2
+A,1,Tiburones Rojos Veracruz,0-2,Pumas UNAM
+A,1,Club Atlas,0-0,Querétaro FC
+A,1,Cruz Azul,3-0,Club Puebla
+A,1,CF Pachuca,0-1,CF Monterrey
+A,1,Club Tijuana,02-Jan,CD Guadalajara Chivas
+A,1,Tigres UANL,2-0,Club León
+A,1,Club Necaxa,02-Jan,Club América
+A,1,Santos Laguna,02-Jan,Lobos BUAP
+A,1,Deportivo Toluca FC,2-0,Monarcas Morelia
+A,1,Monarcas Morelia,03-Jan,Santos Laguna
+A,1,Club Puebla,02-Jan,Deportivo Toluca FC
+A,1,CD Guadalajara Chivas,0-1,Cruz Azul
+A,1,Club América,3-0,Club Atlas
+A,1,Querétaro FC,1-0,CF Pachuca
+A,1,Pumas UNAM,05-Mar,Club Necaxa
+A,1,Lobos BUAP,2-0,Tiburones Rojos Veracruz
+A,1,Club León,0-2,CF Monterrey
+A,1,Tigres UANL,1-0,Club Tijuana
+A,1,Club Atlas,0-3,Pumas UNAM
+A,1,Tiburones Rojos Veracruz,02-Feb,Monarcas Morelia
+A,1,Club Necaxa,1-0,Lobos BUAP
+A,1,CF Pachuca,01-Mar,Club América
+A,1,CF Monterrey,02-Jan,Querétaro FC
+A,1,Cruz Azul,1-0,Tigres UANL
+A,1,Deportivo Toluca FC,02-Feb,CD Guadalajara Chivas
+A,1,Santos Laguna,2-0,Club Puebla
+A,1,Club Tijuana,01-Jan,Club León
+A,1,Club Puebla,01-Feb,Tiburones Rojos Veracruz
+A,1,Monarcas Morelia,02-Jan,Club Necaxa
+A,1,Club América,3-0,CF Monterrey
+A,1,Club León,4-0,Querétaro FC
+A,1,Tigres UANL,01-Feb,Deportivo Toluca FC
+A,1,Lobos BUAP,0-0,Club Atlas
+A,1,Pumas UNAM,0-0,CF Pachuca
+A,1,Club Tijuana,01-Jan,Cruz Azul
+A,1,CD Guadalajara Chivas,01-Feb,Santos Laguna
+A,1,Tiburones Rojos Veracruz,0-2,CD Guadalajara Chivas
+A,1,Club Atlas,0-1,Monarcas Morelia
+A,1,CF Pachuca,3-0,Lobos BUAP
+A,1,Cruz Azul,3-0,Club León
+A,1,CF Monterrey,1-0,Pumas UNAM
+A,1,Querétaro FC,01-Jan,Club América
+A,1,Club Necaxa,02-Feb,Club Puebla
+A,1,Santos Laguna,03-Jan,Tigres UANL
+A,1,Deportivo Toluca FC,3-0,Club Tijuana
+A,1,Monarcas Morelia,01-Jan,CF Pachuca
+A,1,Pumas UNAM,0-1,Querétaro FC
+A,1,Club Puebla,2-0,Club Atlas
+A,1,CD Guadalajara Chivas,1-0,Club Necaxa
+A,1,Cruz Azul,1-0,Deportivo Toluca FC
+A,1,Club León,2-0,Club América
+A,1,Tigres UANL,4-0,Tiburones Rojos Veracruz
+A,1,Club Tijuana,02-Feb,Santos Laguna
+A,1,Lobos BUAP,01-Feb,CF Monterrey
+A,1,Club Atlas,0-1,CD Guadalajara Chivas
+A,1,Club América,02-Feb,Pumas UNAM
+A,1,CF Monterrey,02-Feb,Monarcas Morelia
+A,1,Tiburones Rojos Veracruz,1-0,Club Tijuana
+A,1,Club Necaxa,01-Jan,Tigres UANL
+A,1,CF Pachuca,2-0,Club Puebla
+A,1,Querétaro FC,2-0,Lobos BUAP
+A,1,Deportivo Toluca FC,01-Feb,Club León
+A,1,Santos Laguna,01-Jan,Cruz Azul
+A,1,Monarcas Morelia,01-Apr,Querétaro FC
+A,1,Club Puebla,02-Jan,CF Monterrey
+A,1,Club Tijuana,1-0,Club Necaxa
+A,1,Cruz Azul,04-Jan,Tiburones Rojos Veracruz
+A,1,Club León,01-Feb,Pumas UNAM
+A,1,CD Guadalajara Chivas,01-Mar,CF Pachuca
+A,1,Tigres UANL,03-Jan,Club Atlas
+A,1,Deportivo Toluca FC,02-Jan,Santos Laguna
+A,1,Lobos BUAP,0-2,Club América
+A,1,Tiburones Rojos Veracruz,02-Mar,Deportivo Toluca FC
+A,1,CF Pachuca,01-Jan,Tigres UANL
+A,1,Querétaro FC,0-1,Club Puebla
+A,1,Club América,02-Jan,Monarcas Morelia
+A,1,CF Monterrey,02-Apr,CD Guadalajara Chivas
+A,1,Club Necaxa,2-0,Cruz Azul
+A,1,Pumas UNAM,04-Feb,Lobos BUAP
+A,1,Santos Laguna,3-0,Club León
+A,1,Club Atlas,0-1,Club Tijuana
+A,1,Monarcas Morelia,0-0,Pumas UNAM
+A,1,Club Puebla,02-Mar,Club América
+A,1,Deportivo Toluca FC,03-Feb,Club Necaxa
+A,1,Club Tijuana,1-0,CF Pachuca
+A,1,Cruz Azul,2-0,Club Atlas
+A,1,Club León,0-1,Lobos BUAP
+A,1,CD Guadalajara Chivas,01-Jan,Querétaro FC
+A,1,Santos Laguna,01-Jan,Tiburones Rojos Veracruz
+A,1,Tigres UANL,0-0,CF Monterrey
+A,2,Tiburones Rojos Veracruz,0-4,Club León
+A,2,Club Atlas,2-0,Deportivo Toluca FC
+A,2,CF Monterrey,3-0,Club Tijuana
+A,2,CF Pachuca,03-Jan,Cruz Azul
+A,2,Club Necaxa,0-1,Santos Laguna
+A,2,Querétaro FC,0-2,Tigres UANL
+A,2,Pumas UNAM,02-Feb,Club Puebla
+A,2,Club América,01-Jan,CD Guadalajara Chivas
+A,2,Lobos BUAP,03-Jan,Monarcas Morelia
+A,2,Santos Laguna,03-Jan,Club Atlas
+A,2,Tiburones Rojos Veracruz,0-0,Club Necaxa
+A,2,Club León,01-Feb,Monarcas Morelia
+A,2,Cruz Azul,02-Jan,CF Monterrey
+A,2,Club Tijuana,01-Jan,Querétaro FC
+A,2,CD Guadalajara Chivas,01-Feb,Pumas UNAM
+A,2,Tigres UANL,02-Mar,Club América
+A,2,Deportivo Toluca FC,02-Jan,CF Pachuca
+A,2,Club Puebla,02-Feb,Lobos BUAP
+A,2,Club Atlas,04-Mar,Tiburones Rojos Veracruz
+A,2,Querétaro FC,2-0,Cruz Azul
+A,2,CF Pachuca,01-Jan,Santos Laguna
+A,2,Club América,3-0,Club Tijuana
+A,2,Club Necaxa,0-2,Club León
+A,2,CF Monterrey,02-Jan,Deportivo Toluca FC
+A,2,Lobos BUAP,01-Jan,CD Guadalajara Chivas
+A,2,Pumas UNAM,03-Mar,Tigres UANL
+A,2,Monarcas Morelia,2-0,Club Puebla
+A,2,Tiburones Rojos Veracruz,02-Mar,CF Pachuca
+A,2,Santos Laguna,1-0,CF Monterrey
+A,2,Club Necaxa,02-Feb,Club Atlas
+A,2,Tigres UANL,02-Feb,Lobos BUAP
+A,2,CD Guadalajara Chivas,01-Feb,Monarcas Morelia
+A,2,Cruz Azul,0-0,Club América
+A,2,Club Tijuana,0-1,Pumas UNAM
+A,2,Deportivo Toluca FC,4-0,Querétaro FC
+A,2,Club León,0-4,Club Puebla
+A,2,Monarcas Morelia,0-2,Tigres UANL
+A,2,Club Puebla,02-Feb,CD Guadalajara Chivas
+A,2,CF Pachuca,06-Feb,Club Necaxa
+A,2,Club América,01-Jan,Deportivo Toluca FC
+A,2,CF Monterrey,2-0,Tiburones Rojos Veracruz
+A,2,Lobos BUAP,03-Jan,Club Tijuana
+A,2,Pumas UNAM,01-Feb,Cruz Azul
+A,2,Querétaro FC,02-Jan,Santos Laguna
+A,2,Club Atlas,0-0,Club León
+A,2,Tiburones Rojos Veracruz,02-Feb,Querétaro FC
+A,2,Club Atlas,0-0,CF Pachuca
+A,2,Club León,0-1,CD Guadalajara Chivas
+A,2,Cruz Azul,02-Jan,Lobos BUAP
+A,2,Club Tijuana,02-Mar,Monarcas Morelia
+A,2,Club Necaxa,01-Jan,CF Monterrey
+A,2,Tigres UANL,06-Jan,Club Puebla
+A,2,Deportivo Toluca FC,0-1,Pumas UNAM
+A,2,Santos Laguna,01-Jan,Club América
+A,2,Monarcas Morelia,0-2,Cruz Azul
+A,2,Club Puebla,0-0,Club Tijuana
+A,2,Querétaro FC,1-0,Club Necaxa
+A,2,CF Pachuca,01-Jan,Club León
+A,2,CF Monterrey,03-Jan,Club Atlas
+A,2,CD Guadalajara Chivas,0-1,Tigres UANL
+A,2,Club América,04-Jan,Tiburones Rojos Veracruz
+A,2,Pumas UNAM,01-Jan,Santos Laguna
+A,2,Lobos BUAP,2-0,Deportivo Toluca FC
+B,2,CF Monterrey,1-0,Santos Laguna
+B,2,Querétaro FC,0-2,Cruz Azul
+B,2,Tigres UANL,02-Jan,Pumas UNAM
+B,2,Deportivo Toluca FC,02-Feb,Club América
+B,2,Cruz Azul,01-Jan,Querétaro FC
+B,2,Santos Laguna,0-2,CF Monterrey
+B,2,Club América,03-Feb,Deportivo Toluca FC
+B,2,Pumas UNAM,03-Jan,Tigres UANL
+B,2,CF Monterrey,1-0,Cruz Azul
+B,2,Pumas UNAM,01-Jan,Club América
+B,2,Cruz Azul,1-0,CF Monterrey
+B,2,Club América,06-Jan,Pumas UNAM
+B,2,Club América,0-0,Cruz Azul
+B,2,Cruz Azul,0-2,Club América
+B,1,Club Puebla,01-Jan,Cruz Azul
+B,1,Monarcas Morelia,01-Mar,Deportivo Toluca FC
+B,1,Querétaro FC,01-Feb,Club Atlas
+B,1,CF Monterrey,5-0,CF Pachuca
+B,1,CD Guadalajara Chivas,2-0,Club Tijuana
+B,1,Club León,02-Feb,Tigres UANL
+B,1,Lobos BUAP,2-0,Santos Laguna
+B,1,Pumas UNAM,0-0,Tiburones Rojos Veracruz
+B,1,Club Atlas,01-Feb,Club América
+B,1,Tiburones Rojos Veracruz,0-1,Lobos BUAP
+B,1,Club Tijuana,0-3,Tigres UANL
+B,1,Club Necaxa,02-Jan,Pumas UNAM
+B,1,Cruz Azul,0-1,CD Guadalajara Chivas
+B,1,CF Pachuca,3-0,Querétaro FC
+B,1,CF Monterrey,02-Feb,Club León
+B,1,Santos Laguna,1-0,Monarcas Morelia
+B,1,Deportivo Toluca FC,2-0,Club Puebla
+B,1,Monarcas Morelia,2-0,Tiburones Rojos Veracruz
+B,1,Club Puebla,01-Jan,Santos Laguna
+B,1,Club América,3-0,CF Pachuca
+B,1,Querétaro FC,01-Feb,CF Monterrey
+B,1,Tigres UANL,0-1,Cruz Azul
+B,1,Club León,0-1,Club Tijuana
+B,1,Pumas UNAM,02-Feb,Club Atlas
+B,1,Lobos BUAP,02-Mar,Club Necaxa
+B,1,CD Guadalajara Chivas,1-0,Deportivo Toluca FC
+B,1,Club Atlas,03-Jan,Lobos BUAP
+B,1,Tiburones Rojos Veracruz,0-1,Club Puebla
+B,1,Club Necaxa,0-0,Monarcas Morelia
+B,1,Cruz Azul,1-0,Club Tijuana
+B,1,CF Monterrey,03-Feb,Club América
+B,1,CF Pachuca,1-0,Pumas UNAM
+B,1,Querétaro FC,0-4,Club León
+B,1,Deportivo Toluca FC,0-1,Tigres UANL
+B,1,Santos Laguna,1-0,CD Guadalajara Chivas
+B,1,Monarcas Morelia,01-Feb,Club Atlas
+B,1,Club Puebla,01-Apr,Club Necaxa
+B,1,Club Tijuana,2-0,Deportivo Toluca FC
+B,1,Club América,2-0,Querétaro FC
+B,1,Club León,2-0,Cruz Azul
+B,1,Tigres UANL,02-Jan,Santos Laguna
+B,1,Lobos BUAP,01-Jan,CF Pachuca
+B,1,Pumas UNAM,01-Jan,CF Monterrey
+B,1,CD Guadalajara Chivas,0-0,Tiburones Rojos Veracruz
+B,1,Tiburones Rojos Veracruz,0-2,Tigres UANL
+B,1,Club Atlas,01-Feb,Club Puebla
+B,1,CF Monterrey,4-0,Lobos BUAP
+B,1,Querétaro FC,0-2,Pumas UNAM
+B,1,Club Necaxa,03-Mar,CD Guadalajara Chivas
+B,1,Club América,0-3,Club León
+B,1,CF Pachuca,2-0,Monarcas Morelia
+B,1,Deportivo Toluca FC,01-Jan,Cruz Azul
+B,1,Santos Laguna,01-Jan,Club Tijuana
+B,1,Monarcas Morelia,02-Mar,CF Monterrey
+B,1,Club Puebla,01-Jan,CF Pachuca
+B,1,Club Tijuana,3-0,Tiburones Rojos Veracruz
+B,1,Cruz Azul,01-Feb,Santos Laguna
+B,1,CD Guadalajara Chivas,3-0,Club Atlas
+B,1,Club León,3-0,Deportivo Toluca FC
+B,1,Tigres UANL,03-Feb,Club Necaxa
+B,1,Lobos BUAP,03-Jan,Querétaro FC
+B,1,Pumas UNAM,1-0,Club América
+B,1,Club Atlas,0-1,Tigres UANL
+B,1,Tiburones Rojos Veracruz,01-Jan,Cruz Azul
+B,1,Querétaro FC,3-0,Monarcas Morelia
+B,1,Club Necaxa,01-Feb,Club Tijuana
+B,1,Club América,3-0,Lobos BUAP
+B,1,CF Monterrey,0-0,Club Puebla
+B,1,CF Pachuca,03-Jan,CD Guadalajara Chivas
+B,1,Santos Laguna,4-0,Deportivo Toluca FC
+B,1,Pumas UNAM,01-Mar,Club León
+B,1,Monarcas Morelia,02-Feb,Club América
+B,1,Club Tijuana,03-Jan,Club Atlas
+B,1,Cruz Azul,02-Jan,Club Necaxa
+B,1,CD Guadalajara Chivas,0-2,CF Monterrey
+B,1,Tigres UANL,3-0,CF Pachuca
+B,1,Club León,3-0,Santos Laguna
+B,1,Deportivo Toluca FC,03-Jan,Tiburones Rojos Veracruz
+B,1,Lobos BUAP,02-Jan,Pumas UNAM
+B,1,Club Puebla,1-0,Querétaro FC
+B,1,Club América,01-Mar,Club Necaxa
+B,1,Tiburones Rojos Veracruz,02-Feb,Santos Laguna
+B,1,Club Atlas,0-2,Cruz Azul
+B,1,Querétaro FC,0-0,CD Guadalajara Chivas
+B,1,CF Pachuca,4-0,Club Tijuana
+B,1,CF Monterrey,01-Jan,Tigres UANL
+B,1,Club Necaxa,01-Jan,Deportivo Toluca FC
+B,1,Club América,1-0,Club Puebla
+B,1,Pumas UNAM,02-Feb,Monarcas Morelia
+B,1,Lobos BUAP,0-1,Club León
+B,2,Monarcas Morelia,01-Jan,Lobos BUAP
+B,2,Club Puebla,1-0,Pumas UNAM
+B,2,Cruz Azul,04-Jan,CF Pachuca
+B,2,Club Tijuana,1-0,CF Monterrey
+B,2,Tigres UANL,04-Jan,Querétaro FC
+B,2,CD Guadalajara Chivas,0-2,Club América
+B,2,Deportivo Toluca FC,2-0,Club Atlas
+B,2,Club León,2-0,Tiburones Rojos Veracruz
+B,2,Santos Laguna,01-Feb,Club Necaxa
+B,2,Monarcas Morelia,02-Mar,Club León
+B,2,Club Atlas,1-0,Santos Laguna
+B,2,Club América,3-0,Tigres UANL
+B,2,Querétaro FC,1-0,Club Tijuana
+B,2,Club Necaxa,2-0,Tiburones Rojos Veracruz
+B,2,CF Monterrey,02-Feb,Cruz Azul
+B,2,CF Pachuca,03-Feb,Deportivo Toluca FC
+B,2,Pumas UNAM,02-Jan,CD Guadalajara Chivas
+B,2,Lobos BUAP,0-4,Club Puebla
+B,2,Tiburones Rojos Veracruz,0-1,Club Atlas
+B,2,Club Puebla,01-Jan,Monarcas Morelia
+B,2,Club León,02-Jan,Club Necaxa
+B,2,Cruz Azul,3-0,Querétaro FC
+B,2,Tigres UANL,2-0,Pumas UNAM
+B,2,Club Tijuana,03-Feb,Club América
+B,2,CD Guadalajara Chivas,0-1,Lobos BUAP
+B,2,Deportivo Toluca FC,05-Jan,CF Monterrey
+B,2,Santos Laguna,0-0,CF Pachuca
+B,2,Club Atlas,01-Feb,Club Necaxa
+B,2,Club Puebla,0-3,Club León
+B,2,Querétaro FC,0-0,Deportivo Toluca FC
+B,2,CF Pachuca,09-Feb,Tiburones Rojos Veracruz
+B,2,Monarcas Morelia,1-0,CD Guadalajara Chivas
+B,2,Pumas UNAM,1-0,Club Tijuana
+B,2,CF Monterrey,4-0,Santos Laguna
+B,2,Club América,0-0,Cruz Azul
+B,2,Lobos BUAP,0-3,Tigres UANL
+B,2,Tiburones Rojos Veracruz,0-1,CF Monterrey
+B,2,Club Tijuana,01-Feb,Lobos BUAP
+B,2,Club Necaxa,02-Feb,CF Pachuca
+B,2,Club León,05-Feb,Club Atlas
+B,2,Cruz Azul,02-Jan,Pumas UNAM
+B,2,CD Guadalajara Chivas,01-Mar,Club Puebla
+B,2,Tigres UANL,03-Mar,Monarcas Morelia
+B,2,Deportivo Toluca FC,03-Feb,Club América
+B,2,Santos Laguna,02-Jan,Querétaro FC
+B,2,Club Puebla,01-Jan,Tigres UANL
+B,2,Monarcas Morelia,01-Apr,Club Tijuana
+B,2,CF Pachuca,1-0,Club Atlas
+B,2,CD Guadalajara Chivas,02-Jan,Club León
+B,2,CF Monterrey,02-Feb,Club Necaxa
+B,2,Club América,1-0,Santos Laguna
+B,2,Pumas UNAM,02-Feb,Deportivo Toluca FC
+B,2,Lobos BUAP,01-Apr,Cruz Azul
+B,2,Querétaro FC,02-Jan,Tiburones Rojos Veracruz
+B,2,Tiburones Rojos Veracruz,0-2,Club América
+B,2,Cruz Azul,01-Jan,Monarcas Morelia
+B,2,Club León,02-Jan,CF Pachuca
+B,2,Club Tijuana,4-0,Club Puebla
+B,2,Club Necaxa,1-0,Querétaro FC
+B,2,Tigres UANL,02-Jan,CD Guadalajara Chivas
+B,2,Deportivo Toluca FC,4-0,Lobos BUAP
+B,2,Club Atlas,2-0,CF Monterrey
+B,2,Santos Laguna,05-Feb,Pumas UNAM
+B,2,CF Pachuca,01-Jan,Tigres UANL
+B,2,Club Tijuana,01-Mar,Club León
+B,2,Club Necaxa,1-0,CF Monterrey
+B,2,Club América,03-Jan,Cruz Azul
+B,2,Tigres UANL,01-Jan,CF Pachuca
+B,2,Club León,02-Jan,Club Tijuana
+B,2,Cruz Azul,1-0,Club América
+B,2,CF Monterrey,1-0,Club Necaxa
+B,2,CF Monterrey,1-0,Tigres UANL
+B,2,Club América,0-1,Club León
+B,2,Tigres UANL,1-0,CF Monterrey
+B,2,Club León,0-1,Club América
+B,2,Tigres UANL,1-0,Club León
+B,2,Club León,0-0,Tigres UANL
+A,1,Club Puebla,01-Mar,Club Tijuana
+A,1,Club Atlas,1-0,FC Juárez
+A,1,CF Pachuca,01-Mar,Club León
+A,1,Atlético San Luis,0-2,Pumas UNAM
+A,1,Club América,04-Feb,CF Monterrey
+A,1,Tigres UANL,04-Feb,Monarcas Morelia
+A,1,Club Necaxa,0-0,Cruz Azul
+A,1,Deportivo Toluca FC,0-2,Querétaro FC
+A,1,Santos Laguna,3-0,CD Guadalajara Chivas
+A,1,Monarcas Morelia,0-1,Club Atlas
+A,1,Tiburones Rojos Veracruz,03-Mar,CF Pachuca
+A,1,Club León,0-0,Club América
+A,1,Club Tijuana,01-Jan,Querétaro FC
+A,1,Cruz Azul,01-Jan,Deportivo Toluca FC
+A,1,Pumas UNAM,2-0,Club Necaxa
+A,1,Atlético San Luis,1-0,CF Monterrey
+A,1,CD Guadalajara Chivas,2-0,Tigres UANL
+A,1,Santos Laguna,3-0,FC Juárez
+A,1,Club Puebla,01-Jan,CD Guadalajara Chivas
+A,1,Club Atlas,01-Feb,Santos Laguna
+A,1,Querétaro FC,3-0,Cruz Azul
+A,1,Club América,03-Jan,Club Tijuana
+A,1,CF Monterrey,03-Feb,Club León
+A,1,Club Necaxa,7-0,Tiburones Rojos Veracruz
+A,1,CF Pachuca,01-Feb,Monarcas Morelia
+A,1,Pumas UNAM,0-1,Tigres UANL
+A,1,FC Juárez,2-0,Deportivo Toluca FC
+A,1,Monarcas Morelia,0-1,CF Monterrey
+A,1,Tiburones Rojos Veracruz,01-Feb,Club Atlas
+A,1,Club Tijuana,1-0,Pumas UNAM
+A,1,CD Guadalajara Chivas,3-0,Atlético San Luis
+A,1,Cruz Azul,2-0,FC Juárez
+A,1,Tigres UANL,03-Jan,Club Necaxa
+A,1,Querétaro FC,02-Jan,CF Pachuca
+A,1,Santos Laguna,04-Jan,Club Puebla
+A,1,Deportivo Toluca FC,0-1,Club América
+A,1,Club Puebla,0-4,CF Pachuca
+A,1,Club Atlas,01-Mar,Cruz Azul
+A,1,Atlético San Luis,01-Jan,Tigres UANL
+A,1,Club León,04-Mar,CD Guadalajara Chivas
+A,1,CF Monterrey,2-0,Deportivo Toluca FC
+A,1,Club América,1-0,Monarcas Morelia
+A,1,Pumas UNAM,2-0,Tiburones Rojos Veracruz
+A,1,FC Juárez,0-2,Querétaro FC
+A,1,Club Necaxa,3-0,Santos Laguna
+A,1,Tiburones Rojos Veracruz,01-Feb,Atlético San Luis
+A,1,Monarcas Morelia,2-0,Pumas UNAM
+A,1,Santos Laguna,02-Jan,CF Monterrey
+A,1,Querétaro FC,0-4,Club León
+A,1,CF Pachuca,03-Jan,Club Atlas
+A,1,Cruz Azul,01-Jan,Club Puebla
+A,1,Tigres UANL,01-Jan,Club América
+A,1,Deportivo Toluca FC,2-0,Club Tijuana
+A,1,CD Guadalajara Chivas,01-Feb,Club Necaxa
+A,1,Tiburones Rojos Veracruz,0-5,Querétaro FC
+A,1,Atlético San Luis,01-Jan,Monarcas Morelia
+A,1,Club América,01-Jan,CF Pachuca
+A,1,Club Atlas,01-Jan,Tigres UANL
+A,1,Club León,02-Feb,Santos Laguna
+A,1,Club Necaxa,01-Jan,Deportivo Toluca FC
+A,1,Club Tijuana,03-Feb,Cruz Azul
+A,1,CF Monterrey,2-0,Pumas UNAM
+A,1,Club Puebla,02-Jan,FC Juárez
+A,1,Club Atlas,3-0,Club América
+A,1,Monarcas Morelia,1-0,Tiburones Rojos Veracruz
+A,1,Club Necaxa,03-Feb,Club Tijuana
+A,1,Cruz Azul,01-Jan,CD Guadalajara Chivas
+A,1,CF Pachuca,0-2,Atlético San Luis
+A,1,Tigres UANL,01-Jan,Club León
+A,1,Pumas UNAM,02-Jan,Deportivo Toluca FC
+A,1,Querétaro FC,01-Jan,Club Puebla
+A,1,FC Juárez,1-0,CF Monterrey
+A,1,Club Puebla,01-Mar,Atlético San Luis
+A,1,Club Tijuana,01-Jan,Tigres UANL
+A,1,Tiburones Rojos Veracruz,0-0,Cruz Azul
+A,1,CF Monterrey,0-2,Club Necaxa
+A,1,Club León,03-Jan,FC Juárez
+A,1,CD Guadalajara Chivas,1-0,Club Atlas
+A,1,Club América,01-Jan,Pumas UNAM
+A,1,Deportivo Toluca FC,0-2,Monarcas Morelia
+A,1,Santos Laguna,02-Feb,CF Pachuca
+A,1,Monarcas Morelia,1-0,CD Guadalajara Chivas
+A,1,Club Atlas,0-1,Deportivo Toluca FC
+A,1,Atlético San Luis,02-Mar,Santos Laguna
+A,1,Club Necaxa,02-Apr,Club León
+A,1,Club América,02-Feb,Querétaro FC
+A,1,CF Pachuca,04-Jan,Club Tijuana
+A,1,CF Monterrey,03-Feb,Club Puebla
+A,1,Pumas UNAM,01-Jan,Cruz Azul
+A,1,FC Juárez,2-0,Tiburones Rojos Veracruz
+A,2,Querétaro FC,01-Feb,Club Necaxa
+A,2,Tigres UANL,0-1,Club Puebla
+A,2,Club León,01-Jan,Club Atlas
+A,2,CD Guadalajara Chivas,02-Apr,CF Pachuca
+A,2,Club Tijuana,03-Feb,Monarcas Morelia
+A,2,Santos Laguna,5-0,Tiburones Rojos Veracruz
+A,2,Cruz Azul,01-Jan,CF Monterrey
+A,2,FC Juárez,01-Jan,Club América
+A,2,Deportivo Toluca FC,03-Jan,Atlético San Luis
+A,2,Club Puebla,02-Jan,Club León
+A,2,Club Atlas,2-0,Querétaro FC
+A,2,CF Pachuca,2-0,Cruz Azul
+A,2,Club Necaxa,0-0,FC Juárez
+A,2,CF Monterrey,0-2,Tigres UANL
+A,2,Club América,04-Jan,CD Guadalajara Chivas
+A,2,Pumas UNAM,2-0,Santos Laguna
+A,2,Atlético San Luis,02-Mar,Club Tijuana
+A,2,Tiburones Rojos Veracruz,01-Jan,Deportivo Toluca FC
+A,2,Monarcas Morelia,02-Mar,Club Necaxa
+A,2,Club Tijuana,02-Feb,Club Atlas
+A,2,Club León,01-Jan,Tiburones Rojos Veracruz
+A,2,Tigres UANL,4-0,Santos Laguna
+A,2,CD Guadalajara Chivas,01-Jan,Pumas UNAM
+A,2,Cruz Azul,05-Feb,Club América
+A,2,Deportivo Toluca FC,01-Jan,Club Puebla
+A,2,FC Juárez,01-Feb,Atlético San Luis
+A,2,Querétaro FC,02-Jan,CF Monterrey
+A,2,Club Puebla,0-1,Club Atlas
+A,2,Tiburones Rojos Veracruz,01-Mar,Tigres UANL
+A,2,Santos Laguna,04-Jan,Club Tijuana
+A,2,Cruz Azul,02-Mar,Monarcas Morelia
+A,2,CF Pachuca,0-1,FC Juárez
+A,2,Club Necaxa,02-Feb,Club América
+A,2,CF Monterrey,01-Jan,CD Guadalajara Chivas
+A,2,Atlético San Luis,0-2,Querétaro FC
+A,2,Pumas UNAM,01-Feb,Club León
+A,2,Monarcas Morelia,02-Feb,Santos Laguna
+A,2,Club Tijuana,2-0,Tiburones Rojos Veracruz
+A,2,Club Atlas,0-2,Club Necaxa
+A,2,Tigres UANL,01-Jan,Cruz Azul
+A,2,Club América,2-0,Club Puebla
+A,2,Club León,03-Feb,Atlético San Luis
+A,2,Querétaro FC,3-0,Pumas UNAM
+A,2,Deportivo Toluca FC,2-0,CF Pachuca
+A,2,FC Juárez,01-Feb,CD Guadalajara Chivas
+A,2,Santos Laguna,1-0,Querétaro FC
+A,2,Tiburones Rojos Veracruz,1-0,Club Puebla
+A,2,Atlético San Luis,0-1,Club América
+A,2,Pumas UNAM,05-Jan,Club Atlas
+A,2,CF Pachuca,02-Mar,CF Monterrey
+A,2,CD Guadalajara Chivas,0-1,Club Tijuana
+A,2,Tigres UANL,1-0,Deportivo Toluca FC
+A,2,Cruz Azul,1-0,Club León
+A,2,Monarcas Morelia,06-Jan,FC Juárez
+A,2,Club Puebla,01-Jan,Pumas UNAM
+A,2,Club Atlas,01-Feb,Atlético San Luis
+A,2,Querétaro FC,0-0,Tigres UANL
+A,2,Club América,01-Feb,Santos Laguna
+A,2,Club Necaxa,01-Feb,CF Pachuca
+A,2,CF Monterrey,01-Jan,Tiburones Rojos Veracruz
+A,2,Deportivo Toluca FC,01-Mar,CD Guadalajara Chivas
+A,2,Club León,01-Jan,Monarcas Morelia
+A,2,FC Juárez,3-0,Club Tijuana
+A,2,Monarcas Morelia,03-Feb,Club Puebla
+A,2,Tiburones Rojos Veracruz,0-5,Club América
+A,2,Club Tijuana,0-4,CF Monterrey
+A,2,Atlético San Luis,0-2,Club Necaxa
+A,2,Club León,4-0,Deportivo Toluca FC
+A,2,CD Guadalajara Chivas,03-Feb,Querétaro FC
+A,2,Tigres UANL,0-0,CF Pachuca
+A,2,Pumas UNAM,01-Jan,FC Juárez
+A,2,Santos Laguna,03-Jan,Cruz Azul
+A,2,Club Puebla,3-0,Club Necaxa
+A,2,Club Tijuana,01-Feb,Club León
+A,2,Cruz Azul,03-Jan,Atlético San Luis
+A,2,Querétaro FC,03-Jan,Monarcas Morelia
+A,2,CD Guadalajara Chivas,03-Jan,Tiburones Rojos Veracruz
+A,2,CF Pachuca,2-0,Pumas UNAM
+A,2,CF Monterrey,2-0,Club Atlas
+A,2,FC Juárez,01-Feb,Tigres UANL
+A,2,Deportivo Toluca FC,02-Feb,Santos Laguna
+B,2,Monarcas Morelia,03-Mar,Club León
+B,2,Club Necaxa,3-0,Querétaro FC
+B,2,Club América,01-Feb,Tigres UANL
+B,2,CF Monterrey,05-Feb,Santos Laguna
+B,2,Querétaro FC,02-Mar,Club Necaxa
+B,2,Club León,01-Feb,Monarcas Morelia
+B,2,Santos Laguna,01-Jan,CF Monterrey
+B,2,Tigres UANL,02-Apr,Club América
+B,2,CF Monterrey,02-Jan,Club Necaxa
+B,2,Club Necaxa,0-1,CF Monterrey
+B,2,Monarcas Morelia,0-2,Club América
+B,2,Club América,2-0,Monarcas Morelia
+B,2,CF Monterrey,02-Jan,Club América
+B,2,Club América,02-Jan,CF Monterrey
+B,1,Monarcas Morelia,0-1,Deportivo Toluca FC
+B,1,Club Tijuana,02-Jan,Santos Laguna
+B,1,Cruz Azul,01-Feb,Club Atlas
+B,1,CD Guadalajara Chivas,2-0,FC Juárez
+B,1,Club León,03-Jan,Querétaro FC
+B,1,Tigres UANL,0-0,Atlético San Luis
+B,1,Pumas UNAM,02-Jan,CF Pachuca
+B,1,FC Juárez,04-Apr,Pumas UNAM
+B,1,Club Atlas,0-1,Club Puebla
+B,1,Atlético San Luis,02-Jan,Cruz Azul
+B,1,CF Pachuca,0-0,CD Guadalajara Chivas
+B,1,CF Monterrey,02-Feb,Monarcas Morelia
+B,1,Club América,1-0,Tigres UANL
+B,1,Santos Laguna,03-Feb,Club León
+B,1,Querétaro FC,3-0,Club Tijuana
+B,1,Deportivo Toluca FC,02-Mar,Club Necaxa
+B,1,Club Puebla,0-1,Querétaro FC
+B,1,Club Tijuana,0-0,Club América
+B,1,CD Guadalajara Chivas,02-Feb,Deportivo Toluca FC
+B,1,Club León,3-0,CF Pachuca
+B,1,Tigres UANL,02-Jan,Club Atlas
+B,1,Cruz Azul,3-0,Santos Laguna
+B,1,FC Juárez,3-0,Monarcas Morelia
+B,1,Pumas UNAM,1-0,CF Monterrey
+B,1,Club Necaxa,01-Jan,Atlético San Luis
+B,1,Club Atlas,02-Jan,Club Tijuana
+B,1,Atlético San Luis,02-Feb,CD Guadalajara Chivas
+B,1,Santos Laguna,01-Jan,Pumas UNAM
+B,1,Club América,01-Mar,FC Juárez
+B,1,Monarcas Morelia,01-Feb,Club León
+B,1,CF Monterrey,01-Feb,Querétaro FC
+B,1,CF Pachuca,2-0,Tigres UANL
+B,1,Club Necaxa,2-0,Club Puebla
+B,1,Deportivo Toluca FC,03-Mar,Cruz Azul
+B,1,Club Puebla,0-1,Club América
+B,1,Club Necaxa,02-Feb,CF Monterrey
+B,1,Club Atlas,01-Mar,Monarcas Morelia
+B,1,Club Puebla,02-Feb,Santos Laguna
+B,1,Club Tijuana,01-Jan,Deportivo Toluca FC
+B,1,Club León,03-Jan,CF Monterrey
+B,1,Tigres UANL,3-0,CD Guadalajara Chivas
+B,1,Cruz Azul,03-Jan,CF Pachuca
+B,1,Pumas UNAM,4-0,Atlético San Luis
+B,1,Querétaro FC,01-Feb,Club América
+B,1,FC Juárez,02-Jan,Club Necaxa
+B,1,Atlético San Luis,03-Jan,Club León
+B,1,Monarcas Morelia,01-Jan,Club Tijuana
+B,1,CF Pachuca,1-0,Club Puebla
+B,1,CD Guadalajara Chivas,01-Feb,Cruz Azul
+B,1,Club América,2-0,Club Atlas
+B,1,CF Monterrey,01-Jan,FC Juárez
+B,1,Deportivo Toluca FC,02-Mar,Pumas UNAM
+B,1,Club Necaxa,02-Mar,Querétaro FC
+B,1,Santos Laguna,02-Jan,Tigres UANL
+B,1,Club Atlas,0-2,CF Pachuca
+B,1,Club Tijuana,0-1,CD Guadalajara Chivas
+B,1,Club Puebla,2-0,Deportivo Toluca FC
+B,1,CF Monterrey,0-1,Club América
+B,1,Cruz Azul,02-Jan,Tigres UANL
+B,1,Club León,02-Jan,Club Necaxa
+B,1,FC Juárez,01-Feb,Santos Laguna
+B,1,Querétaro FC,0-1,Atlético San Luis
+B,1,Pumas UNAM,01-Feb,Monarcas Morelia
+B,1,Atlético San Luis,0-3,FC Juárez
+B,1,Deportivo Toluca FC,2-0,CF Monterrey
+B,1,Monarcas Morelia,02-Apr,Cruz Azul
+B,1,Club Tijuana,0-1,Club Puebla
+B,1,CF Pachuca,01-Jan,Querétaro FC
+B,1,Club América,0-3,Club Necaxa
+B,1,Tigres UANL,3-0,Pumas UNAM
+B,1,CD Guadalajara Chivas,2-0,Club León
+B,1,Santos Laguna,1-0,Club Atlas
+B,1,Querétaro FC,01-Jan,Deportivo Toluca FC
+B,1,Pumas UNAM,03-Mar,Club América
+B,1,Club Puebla,0-0,Tigres UANL
+B,1,CF Monterrey,02-Feb,Atlético San Luis
+B,1,Cruz Azul,04-Feb,Club Tijuana
+B,1,CF Pachuca,1-0,Santos Laguna
+B,1,Club Atlas,01-Feb,CD Guadalajara Chivas
+B,1,Club Necaxa,01-Feb,Monarcas Morelia
+B,1,FC Juárez,01-Apr,Club León
+B,1,Monarcas Morelia,4-0,Querétaro FC
+B,1,Club Tijuana,03-Feb,CF Pachuca
+B,1,CD Guadalajara Chivas,01-Jan,CF Monterrey
+B,1,Tigres UANL,03-Feb,FC Juárez
+B,1,Club León,03-Jan,Pumas UNAM
+B,1,Atlético San Luis,0-1,Club Puebla
+B,1,Deportivo Toluca FC,02-Mar,Club Atlas
+B,1,Santos Laguna,02-Jan,Club Necaxa
+B,1,Club América,0-1,Cruz Azul
+B,2,Monarcas Morelia,01-Jan,Atlético San Luis
+B,2,Club Puebla,01-Jan,Cruz Azul
+B,2,Pumas UNAM,01-Jan,Club Tijuana
+B,2,Club América,01-Jan,Club León
+B,2,CF Pachuca,01-Jan,Deportivo Toluca FC
+B,2,Club Necaxa,01-Jan,Tigres UANL
+B,2,CF Monterrey,01-Jan,Santos Laguna
+B,2,Querétaro FC,01-Jan,CD Guadalajara Chivas
+B,2,FC Juárez,01-Jan,Club Atlas
+B,2,Atlético San Luis,01-Jan,CF Pachuca
+B,2,Club Atlas,01-Jan,CF Monterrey
+B,2,Cruz Azul,01-Jan,Pumas UNAM
+B,2,Tigres UANL,01-Jan,Querétaro FC
+B,2,Club León,01-Jan,Club Puebla
+B,2,CD Guadalajara Chivas,01-Jan,Monarcas Morelia
+B,2,Deportivo Toluca FC,01-Jan,FC Juárez
+B,2,Santos Laguna,01-Jan,Club América
+B,2,Club Tijuana,01-Jan,Club Necaxa
+B,2,Atlético San Luis,01-Jan,Club Atlas
+B,2,Monarcas Morelia,01-Jan,Tigres UANL
+B,2,Club América,01-Jan,Deportivo Toluca FC
+B,2,Pumas UNAM,01-Jan,Club Puebla
+B,2,Club Necaxa,01-Jan,CD Guadalajara Chivas
+B,2,CF Monterrey,01-Jan,Club Tijuana
+B,2,Club León,01-Jan,Cruz Azul
+B,2,Querétaro FC,01-Jan,Santos Laguna
+B,2,FC Juárez,01-Jan,CF Pachuca
+B,2,Club Tijuana,01-Jan,FC Juárez
+B,2,Club Puebla,01-Jan,Monarcas Morelia
+B,2,Club Atlas,01-Jan,Pumas UNAM
+B,2,Deportivo Toluca FC,01-Jan,Club León
+B,2,CF Pachuca,01-Jan,Club Necaxa
+B,2,Tigres UANL,01-Jan,CF Monterrey
+B,2,Cruz Azul,01-Jan,Querétaro FC
+B,2,CD Guadalajara Chivas,01-Jan,Club América
+B,2,Santos Laguna,01-Jan,Atlético San Luis
+B,2,Querétaro FC,01-Jan,Club Atlas
+B,2,Monarcas Morelia,01-Jan,CF Pachuca
+B,2,CF Monterrey,01-Jan,Cruz Azul
+B,2,Club América,01-Jan,Atlético San Luis
+B,2,Deportivo Toluca FC,01-Jan,Tigres UANL
+B,2,CD Guadalajara Chivas,01-Jan,Santos Laguna
+B,2,Club León,01-Jan,Club Tijuana
+B,2,Club Necaxa,01-Jan,Pumas UNAM
+B,2,FC Juárez,01-Jan,Club Puebla
+B,2,Atlético San Luis,01-Jan,Deportivo Toluca FC
+B,2,Club Puebla,01-Jan,CF Monterrey
+B,2,Club Atlas,01-Jan,Club León
+B,2,Cruz Azul,01-Jan,Club Necaxa
+B,2,Tigres UANL,01-Jan,Club Tijuana
+B,2,Querétaro FC,01-Jan,FC Juárez
+B,2,Pumas UNAM,01-Jan,CD Guadalajara Chivas
+B,2,CF Pachuca,01-Jan,Club América
+B,2,Santos Laguna,01-Jan,Monarcas Morelia
+B,2,Club Tijuana,01-Jan,Atlético San Luis
+B,2,Santos Laguna,01-Jan,Deportivo Toluca FC
+B,2,Club León,01-Jan,Tigres UANL
+B,2,Club Necaxa,01-Jan,Club Atlas
+B,2,CF Monterrey,01-Jan,CF Pachuca
+B,2,CD Guadalajara Chivas,01-Jan,Club Puebla
+B,2,Pumas UNAM,01-Jan,Querétaro FC
+B,2,FC Juárez,01-Jan,Cruz Azul
+B,2,Monarcas Morelia,01-Jan,Club América
+A,1,Club Necaxa,0-3,Tigres UANL
+A,1,CD Guadalajara Chivas,0-0,Club León
+A,1,Club Tijuana,03-Jan,Club Atlas
+A,1,Cruz Azul,2-0,Santos Laguna
+A,1,Pumas UNAM,03-Feb,Querétaro FC
+A,1,Mazatlán FC,01-Apr,Club Puebla
+A,1,CF Pachuca,01-Feb,Club América
+A,1,Atlético San Luis,01-Jan,FC Juárez
+A,1,CF Monterrey,03-Jan,Deportivo Toluca FC
+A,1,Club Puebla,01-Jan,Cruz Azul
+A,1,FC Juárez,1-0,Club Necaxa
+A,1,Tigres UANL,01-Jan,CF Pachuca
+A,1,Club América,4-0,Club Tijuana
+A,1,Deportivo Toluca FC,03-Feb,Atlético San Luis
+A,1,Santos Laguna,2-0,CD Guadalajara Chivas
+A,1,Querétaro FC,01-Jan,Mazatlán FC
+A,1,Club León,1-0,CF Monterrey
+A,1,Club Atlas,01-Feb,Pumas UNAM
+A,1,CF Pachuca,1-0,Querétaro FC
+A,1,Club Tijuana,0-0,Tigres UANL
+A,1,Mazatlán FC,02-Jan,Deportivo Toluca FC
+A,1,Club Necaxa,01-Jan,Club América
+A,1,Cruz Azul,2-0,Club León
+A,1,CF Monterrey,02-Feb,Santos Laguna
+A,1,CD Guadalajara Chivas,0-1,Club Puebla
+A,1,Atlético San Luis,01-Jan,Club Atlas
+A,1,Pumas UNAM,01-Jan,FC Juárez
+A,1,Tigres UANL,02-Jan,Club Puebla
+A,1,CF Pachuca,0-1,Club León
+A,1,Club Necaxa,1-0,Mazatlán FC
+A,1,Querétaro FC,1-0,Cruz Azul
+A,1,Club Tijuana,0-2,Atlético San Luis
+A,1,Pumas UNAM,01-Jan,CF Monterrey
+A,1,FC Juárez,0-2,CD Guadalajara Chivas
+A,1,Club Atlas,01-Feb,Deportivo Toluca FC
+A,1,Club América,03-Jan,Santos Laguna
+A,1,Club Puebla,0-1,CF Pachuca
+A,1,CD Guadalajara Chivas,02-Jan,Atlético San Luis
+A,1,CF Monterrey,01-Jan,Club Necaxa
+A,1,Mazatlán FC,0-0,Pumas UNAM
+A,1,Cruz Azul,03-Feb,FC Juárez
+A,1,Deportivo Toluca FC,03-Feb,Tigres UANL
+A,1,Santos Laguna,0-0,Club Atlas
+A,1,Querétaro FC,04-Jan,Club América
+A,1,Club León,02-Jan,Club Tijuana
+A,1,FC Juárez,0-0,Club León
+A,1,Club Necaxa,02-Jan,Santos Laguna
+A,1,Club Atlas,1-0,Querétaro FC
+A,1,Tigres UANL,01-Jan,Pumas UNAM
+A,1,Club América,01-Mar,CF Monterrey
+A,1,Deportivo Toluca FC,1-0,CD Guadalajara Chivas
+A,1,Atlético San Luis,01-Mar,Cruz Azul
+A,1,Club Tijuana,1-0,Club Puebla
+A,1,CF Pachuca,04-Mar,Mazatlán FC
+A,1,Mazatlán FC,01-Jan,Tigres UANL
+A,1,Club Puebla,04-Jan,Deportivo Toluca FC
+A,1,Atlético San Luis,01-Feb,Club América
+A,1,CD Guadalajara Chivas,0-0,CF Pachuca
+A,1,Cruz Azul,3-0,Club Necaxa
+A,1,Pumas UNAM,3-0,Club Tijuana
+A,1,Santos Laguna,02-Jan,Querétaro FC
+A,1,CF Monterrey,02-Jan,FC Juárez
+A,1,Club León,02-Jan,Club Atlas
+A,1,Club América,03-Jan,Mazatlán FC
+A,1,Querétaro FC,04-Jan,Deportivo Toluca FC
+A,1,CF Pachuca,03-Jan,Atlético San Luis
+A,1,Club Necaxa,0-2,Club León
+A,1,FC Juárez,01-Jan,Santos Laguna
+A,1,Club Tijuana,02-Jan,CF Monterrey
+A,1,Pumas UNAM,04-Jan,Club Puebla
+A,1,Club Atlas,1-0,Cruz Azul
+A,1,Tigres UANL,01-Mar,CD Guadalajara Chivas
+A,1,Atlético San Luis,02-Jan,Club Necaxa
+A,1,Deportivo Toluca FC,0-1,FC Juárez
+A,1,CF Monterrey,01-Jan,Club Atlas
+A,1,CD Guadalajara Chivas,01-Jan,Querétaro FC
+A,1,Club Puebla,02-Mar,Club América
+A,1,Club León,01-Jan,Tigres UANL
+A,1,Cruz Azul,1-0,CF Pachuca
+A,1,Santos Laguna,01-Feb,Pumas UNAM
+A,1,Mazatlán FC,1-0,Club Tijuana
+A,1,Club Necaxa,01-Feb,CD Guadalajara Chivas
+A,1,FC Juárez,1-0,Club Puebla
+A,1,Club Atlas,01-Jan,Mazatlán FC
+A,1,Tigres UANL,2-0,Santos Laguna
+A,1,Club América,01-Jan,Deportivo Toluca FC
+A,1,Club Tijuana,01-Feb,Cruz Azul
+A,1,Querétaro FC,02-Mar,Club León
+A,1,Pumas UNAM,3-0,Atlético San Luis
+A,1,CF Pachuca,01-Jan,CF Monterrey
+A,2,Club Necaxa,0-1,Club Puebla
+A,2,Mazatlán FC,02-Mar,Cruz Azul
+A,2,Club América,1-0,CD Guadalajara Chivas
+A,2,Tigres UANL,3-0,Querétaro FC
+A,2,Club Atlas,0-1,CF Pachuca
+A,2,Deportivo Toluca FC,01-Feb,Santos Laguna
+A,2,Atlético San Luis,01-Feb,CF Monterrey
+A,2,Club León,2-0,Pumas UNAM
+A,2,CF Pachuca,0-0,Deportivo Toluca FC
+A,2,Club Puebla,03-Mar,Querétaro FC
+A,2,FC Juárez,0-1,Club Atlas
+A,2,CF Monterrey,0-2,Tigres UANL
+A,2,CD Guadalajara Chivas,02-Jan,Mazatlán FC
+A,2,Pumas UNAM,01-Jan,Club Necaxa
+A,2,Atlético San Luis,0-2,Club León
+A,2,Cruz Azul,0-0,Club América
+A,2,Club Tijuana,02-Jan,FC Juárez
+A,2,Club León,02-Jan,Mazatlán FC
+A,2,Club Puebla,0-2,Santos Laguna
+A,2,Club América,02-Feb,Pumas UNAM
+A,2,Tigres UANL,3-0,Atlético San Luis
+A,2,Club Atlas,0-1,Club Necaxa
+A,2,Club Tijuana,0-0,CD Guadalajara Chivas
+A,2,Deportivo Toluca FC,2-0,Cruz Azul
+A,2,FC Juárez,01-Jan,CF Pachuca
+A,2,Querétaro FC,01-Feb,CF Monterrey
+A,2,Santos Laguna,2-0,Club Tijuana
+A,2,Atlético San Luis,02-Jan,Querétaro FC
+A,2,Club Necaxa,2-0,Club Tijuana
+A,2,Mazatlán FC,03-Feb,FC Juárez
+A,2,Cruz Azul,0-2,Tigres UANL
+A,2,CD Guadalajara Chivas,03-Feb,Club Atlas
+A,2,CF Monterrey,03-Jan,Club Puebla
+A,2,Pumas UNAM,1-0,Deportivo Toluca FC
+A,2,Santos Laguna,01-Jan,CF Pachuca
+A,2,Club León,03-Feb,Club América
+A,2,Club Puebla,01-Feb,Club León
+A,2,Querétaro FC,0-1,Club Necaxa
+A,2,Tigres UANL,01-Jan,FC Juárez
+A,2,Mazatlán FC,01-Feb,CF Monterrey
+A,2,Club América,1-0,Club Atlas
+A,2,Deportivo Toluca FC,01-Jan,Club Tijuana
+A,2,CD Guadalajara Chivas,01-Jan,Cruz Azul
+A,2,Santos Laguna,01-Jan,Atlético San Luis
+A,2,CF Pachuca,01-Jan,Pumas UNAM
+A,2,Atlético San Luis,01-Jan,Mazatlán FC
+A,2,Club Necaxa,01-Jan,Deportivo Toluca FC
+A,2,Club Tijuana,01-Jan,CF Pachuca
+A,2,FC Juárez,01-Jan,Querétaro FC
+A,2,Club Atlas,01-Jan,Club Puebla
+A,2,CF Monterrey,01-Jan,Cruz Azul
+A,2,Pumas UNAM,01-Jan,CD Guadalajara Chivas
+A,2,Club América,01-Jan,Tigres UANL
+A,2,Club León,02-Jan,Santos Laguna
+A,2,FC Juárez,01-Jan,Club América
+A,2,Club Puebla,02-Jan,Atlético San Luis
+A,2,CD Guadalajara Chivas,01-Jan,CF Monterrey
+A,2,Tigres UANL,01-Jan,Club Atlas
+A,2,Cruz Azul,01-Jan,Pumas UNAM
+A,2,Querétaro FC,02-Jan,Club Tijuana
+A,2,Santos Laguna,02-Jan,Mazatlán FC
+A,2,Deportivo Toluca FC,01-Jan,Club León
